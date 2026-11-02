@@ -9,6 +9,8 @@ dist-ssr
 
 # Vercel
 .vercel
+.backups
+*.zip
 
 # Environment variables
 .env
@@ -38,3 +40,5 @@ pnpm-debug.log*
 Thumbs.db
 
 .vercel
+.backups
+*.zip
