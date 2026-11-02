@@ -35,7 +35,7 @@ export default function Hero() {
           className="flex items-center gap-2.5 mb-7 text-portfolio-sub font-mono text-[9px] tracking-mono-widest uppercase"
         >
           <span className="w-[22px] h-[1px] bg-portfolio-muted inline-block" />
-          <span>SOFTWARE ENGINEER &bull; DATA ANALYST &bull; TECHNOLOGY SPECIALIST</span>
+          <span>SOFTWARE DEVELOPER &bull; DATA ANALYST &bull; TECHNOLOGY SPECIALIST</span>
         </motion.div>
 
         {/* Massive Display Title */}
@@ -48,7 +48,7 @@ export default function Hero() {
           Avirup Mondal<span className="text-portfolio-sub">.</span>
           <br />
           <span className="block mt-2.5 text-[0.46em] tracking-[-0.05em] text-portfolio-sub font-normal leading-[1.3]">
-            Software Engineer | Data Analyst | Technology Specialist
+            Software Developer | Data Analyst | Technology Specialist
           </span>
         </motion.h1>
 

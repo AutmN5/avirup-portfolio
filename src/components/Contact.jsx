@@ -71,7 +71,7 @@ export default function Contact() {
           <span className="text-portfolio-sub">something matter.</span>
         </h2>
         <p className="max-w-[460px] mx-auto text-[13px] leading-[1.8] text-portfolio-body mt-6">
-          Open for software engineering roles, data analytics projects, and technology consulting.
+          Open for software development roles, data analytics projects, and technology consulting.
         </p>
       </motion.div>
 
@@ -217,7 +217,7 @@ export default function Contact() {
               </label>
               <input
                 type="text"
-                placeholder="Software Engineering Collaboration"
+                placeholder="Software Development Collaboration"
                 value={formData.subject}
                 onChange={(e) => setFormData({ ...formData, subject: e.target.value })}
                 className="w-full px-3.5 py-2.5 rounded-lg border border-white/10 bg-white/[0.02] text-xs text-portfolio-primary placeholder:text-portfolio-muted/50 focus:outline-none focus:border-white/30 transition-colors"

@@ -45,7 +45,7 @@ export default function About() {
           className="max-w-[500px]"
         >
           <p className="text-[13px] leading-[1.95] text-portfolio-body-alt mb-4">
-            Versatile, technology-driven professional with strong computational foundations and hands-on experience across software engineering, data analytics, and IT operations.
+            Versatile, technology-driven professional with strong computational foundations and hands-on experience across software development, data analytics, and IT operations.
           </p>
           <p className="text-[13px] leading-[1.95] text-portfolio-body-alt mb-4">
             Proficient in <span className="text-portfolio-primary font-medium">Java, Python, JavaScript, React.js, Node.js, Spring Boot</span>, and database systems (<span className="text-portfolio-primary font-medium">SQL, MySQL, MongoDB</span>). Advanced proficiency in Microsoft Office tools (Excel, Word, PowerPoint) for data querying, analysis, and executive technical documentation.
